@@ -1,4 +1,4 @@
-# Spilling the Tea: Tea Branch Simulator
+# Spilling the Tea: Tea Security Breach Simulator
 
 COMP 435 Final Project checkpoint: *Spilling the Tea: An Analysis of the 2025 Tea App Security Breach* (Track 1).
 
